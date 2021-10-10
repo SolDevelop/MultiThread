@@ -1,5 +1,5 @@
 {
-    "name": "SolDevelop/MultiThread",
+    "name": "solDevelop/multithread",
     "type": "library",
     "description": "MultiThread is a library which allows multiple to write to one sqlite database, this library would be helpful for developers who dont want to buy MySQL database",
     "keywords": ["sqlite","sqlite3","php","sqlitemultithread","multithread","mysql"],
