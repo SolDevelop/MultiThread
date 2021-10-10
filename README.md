@@ -2,6 +2,10 @@
 > MultiThread Is A PHP Library That Allows Developers To Make Multiple Requests To SQLite Database Which Means You Can Use SQLite for More Stuff Now
 ## How It Works
 > Using Core PHP Magic
+## For NON COMPOSER VERSIONS USE THIS:
+```php
+include 'autoload.php';
+```
 ## Example ?
 ### Enable MultiThread On A Database:
 ```php
