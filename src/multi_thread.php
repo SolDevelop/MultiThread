@@ -11,7 +11,7 @@ class MultiThread{
 	private $k;
 	public $VH;
 	//public $redb;
-	public function __construct(string $dbfile, string $requeststring, bool $k = null, bool $start = null, int $limit = null) {
+	public function __construct(string $dbfile, string $requeststring, bool $k = null, bool $start = null, int $limit = 3) {
         $this->dbf = $dbfile;
 		$this->re = $requeststring;
 		if ($start == true){
